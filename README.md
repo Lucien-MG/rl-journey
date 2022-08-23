@@ -7,6 +7,8 @@ Here are some references that help to build this project:
 
 1. [Reinforcement Learning: An Introduction](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
 
+2. [Algorithms for Reinforcement Learning](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf)
+
 2. [Reinforcement Learning Specialization](https://www.coursera.org/specializations/reinforcement-learning)
 
 3. [Deep RL Bootcamp, Berkeley CA](https://sites.google.com/view/deep-rl-bootcamp/lectures)
@@ -26,3 +28,5 @@ Here are some references that help to build this project:
 10. [Denny Britz's GitHub](https://github.com/dennybritz/reinforcement-learning)
 
 11. [Become a Deep Reinforcement Learning Expert](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893)
+
+13. [Hugging Face](https://github.com/huggingface/deep-rl-class#the-hugging-face-deep-reinforcement-learning-class-)
